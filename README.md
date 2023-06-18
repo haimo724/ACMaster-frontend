@@ -1,5 +1,7 @@
 # acmasterv2
 
+西北工业大学ACM基地管理系统，纯前端，框架Vue2，可以配合Apifox使用
+
 ## Project setup
 ```
 npm install
