@@ -1,6 +1,6 @@
 # acmasterv2
 
-西北工业大学ACM基地管理系统，纯前端，框架Vue2，可以配合Apifox使用
+西北工业大学ACM基地管理系统(包括前台+后台），纯前端，Vue2+ElementUI，可以配合Apifox使用
 
 ## Project setup
 ```
